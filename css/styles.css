@@ -145,13 +145,12 @@ img {
 }
 
 /*------------------Hero--------------------------*/
-
 .hero-section {
-  padding-top: 188px;
-  padding-bottom: 188px;
   background-color: var(--navy-blue);
 }
 .hero-background {
+  padding-top: 188px;
+  padding-bottom: 188px;
   max-width: 1440px;
   height: 600px;
 
@@ -168,6 +167,7 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+
 .hero-title {
   margin-top: 0px;
   margin-bottom: 48px;
