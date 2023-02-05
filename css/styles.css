@@ -370,12 +370,6 @@ img {
   overflow: hidden;
 }
 
-.card-icon-item {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 .card-icon-link:hover {
   background-color: var(--ocean);
 }
